@@ -6,5 +6,10 @@ public class skanner {
 			Scanner input = new Scanner(System.in);
 			System.out.println("username?");
 			String username = input.nextLine(); 
+			System.out.println("age?");
+			Integer age = Integer.parseInt(input.nextLine());
+			
+			
+			
 	}
 }
