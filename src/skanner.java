@@ -8,7 +8,8 @@ public class skanner {
 			String username = input.nextLine(); 
 			System.out.println("age?");
 			Integer age = Integer.parseInt(input.nextLine());
-			
+			System.out.println("adress?");
+			String adress = input.nextLine();
 			
 			
 	}
