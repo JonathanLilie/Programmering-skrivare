@@ -16,7 +16,12 @@ public class skanner {
 			String stad = input.nextLine();
 			System.out.println("Telefonnummer?");
 			String telefonnummer = input.nextLine();
-			
+			System.out.println("username; "+username);
+			System.out.println("age; "+age);
+			System.out.println("adress; "+adress);
+			System.out.println("postnummer; "+postnummer);
+			System.out.println("stad; "+stad);
+			System.out.println("telefonnummer; "+telefonnummer);
 			
 			
 	}
